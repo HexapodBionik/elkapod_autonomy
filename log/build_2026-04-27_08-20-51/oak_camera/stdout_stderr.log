@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating oak_camera.egg-info
+writing oak_camera.egg-info/PKG-INFO
+writing dependency_links to oak_camera.egg-info/dependency_links.txt
+writing entry points to oak_camera.egg-info/entry_points.txt
+writing requirements to oak_camera.egg-info/requires.txt
+writing top-level names to oak_camera.egg-info/top_level.txt
+writing manifest file 'oak_camera.egg-info/SOURCES.txt'
+reading manifest file 'oak_camera.egg-info/SOURCES.txt'
+writing manifest file 'oak_camera.egg-info/SOURCES.txt'
+running build_ext
+Creating /elkapod_sim_ws/src/camera_ws/install/oak_camera/lib/python3.12/site-packages/oak-camera.egg-link (link to .)
+Installing obstacle_node script to /elkapod_sim_ws/src/camera_ws/install/oak_camera/lib/oak_camera
+
+Installed /elkapod_sim_ws/src/camera_ws/build/oak_camera
+running symlink_data
+creating /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/ament_index
+creating /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/ament_index/resource_index
+creating /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/ament_index/resource_index/packages
+symbolically linking /elkapod_sim_ws/src/camera_ws/build/oak_camera/resource/oak_camera -> /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/ament_index/resource_index/packages
+symbolically linking /elkapod_sim_ws/src/camera_ws/build/oak_camera/package.xml -> /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/oak_camera
+creating /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/oak_camera/launch
+symbolically linking /elkapod_sim_ws/src/camera_ws/build/oak_camera/launch/depth_camera.launch.py -> /elkapod_sim_ws/src/camera_ws/install/oak_camera/share/oak_camera/launch

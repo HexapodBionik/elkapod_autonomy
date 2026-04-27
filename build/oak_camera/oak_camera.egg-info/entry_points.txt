@@ -1,0 +1,2 @@
+[console_scripts]
+obstacle_node = oak_camera.obstacle_node:main

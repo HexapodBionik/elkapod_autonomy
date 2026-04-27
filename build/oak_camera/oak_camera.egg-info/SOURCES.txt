@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+launch/depth_camera.launch.py
+oak_camera/__init__.py
+oak_camera/obstacle_node.py
+oak_camera.egg-info/PKG-INFO
+oak_camera.egg-info/SOURCES.txt
+oak_camera.egg-info/dependency_links.txt
+oak_camera.egg-info/entry_points.txt
+oak_camera.egg-info/requires.txt
+oak_camera.egg-info/top_level.txt
+oak_camera.egg-info/zip-safe
+resource/oak_camera

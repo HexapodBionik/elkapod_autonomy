@@ -1,0 +1,1 @@
+/elkapod_sim_ws/src/camera_ws/src/oak_camera/setup.py
