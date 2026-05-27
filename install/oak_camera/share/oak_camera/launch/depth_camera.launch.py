@@ -1,1 +1,0 @@
-/elkapod_sim_ws/src/camera_ws/build/oak_camera/launch/depth_camera.launch.py
